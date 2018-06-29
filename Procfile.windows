@@ -1,1 +1,1 @@
-worker: python telepot.py
+worker: python kek.py
